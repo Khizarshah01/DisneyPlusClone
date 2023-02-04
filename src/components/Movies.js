@@ -11,6 +11,19 @@ function Movies() {
             <Wrap>
                 <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
             </Wrap>
+
+            <Wrap>
+                <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
+            </Wrap>
+            <Wrap>
+                <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
+            </Wrap>
+            <Wrap>
+                <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
+            </Wrap>
+            <Wrap>
+                <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
+            </Wrap>
             <Wrap>
                 <img src ="https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkwNTc1OTI5OTYzNzg0MDYw/disney-plus-animated-movies-feature.webp" />
             </Wrap>
